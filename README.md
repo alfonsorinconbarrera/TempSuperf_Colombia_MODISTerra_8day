@@ -1,4 +1,4 @@
-# TempSuperf_Colombia_MODISTerra_8day
+# TempSuperf_Colombia_MODISTerra_8day_2010-2020
 
 <p align="center">
   <img width="360" src="Gif_Animacion/TempSuperf_Colombia_2010-2020_MODISTerra_8day.gif">
