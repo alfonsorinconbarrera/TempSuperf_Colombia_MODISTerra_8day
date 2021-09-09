@@ -4,6 +4,8 @@
   <img width="360" src="Gif_Animacion/TempSuperf_Colombia_2010-2020_MODISTerra_8day.gif">
 </p>
 
+Pixel (vamor máximo), gráfico (mediana del conjunto de los datos).
+
 Citación:
 
 Land Proceses Distributed Active Archive Center (LP DAAC) de la NASA.
